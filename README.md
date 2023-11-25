@@ -4,7 +4,7 @@
 
 1. add v2ray core 
 
-   install I uploaded zip format file
+   Download I uploaded zip format file
 
    1. put v2ray to  /usr/local/bin/ 
 
@@ -24,10 +24,10 @@
 
       `mv geosite.dat /usr/local/share/v2ray/`
 
-2. install v2raya
+3. install v2raya
    `sudo yum install installer_redhat_x64_2.2.4.1.rpm`
 
-3. start v2raya
+4. start v2raya
 
    `systemctl start v2raya.service`
 
@@ -39,7 +39,7 @@
 
    `systemctl restart v2raya.service`
 
-4. enter web 
+5. enter web 
    `localhost:2017`
 
 if you forget your password
