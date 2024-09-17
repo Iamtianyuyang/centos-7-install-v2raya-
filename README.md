@@ -16,7 +16,7 @@
 
       make v2ray to executable file  
 
-      `chmod 777 /usr/local/bin/ v2ray`
+      `chmod 777 /usr/local/bin/v2ray`
 
    2. put *.dat to /usr/local/share/v2ray/
 
